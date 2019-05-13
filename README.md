@@ -1,4 +1,4 @@
-# Coming soon..
+# GitHub Project Portfolio
 
-A site to host my Github projects.
+This is currently a static page site to host some of my Github projects.
 https://willtscott.github.io/
